@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+requests
+plotly
+jupyterlab
+streamlit
+openpyxl
